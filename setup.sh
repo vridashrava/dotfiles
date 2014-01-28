@@ -1,4 +1,4 @@
 #!/bin/bash
 cd $HOME
-ln -s dotfiles/.bashrc .
-ln -s dotfiles/.screenrc .
+ln -sb dotfiles/.bashrc .
+ln -sb dotfiles/.screenrc .
